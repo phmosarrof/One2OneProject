@@ -8,9 +8,7 @@ package testPackage;
  *
  */
 public class Program1 {
-
-	/**
-	 * @param args
+	/* * @param args
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -20,14 +18,18 @@ public class Program1 {
 		
 		// no need any explanation
 		
-System.out.println("This is my first Java Progrm.");
-System.out.println("It is really interesting project");
-
-System.out.println("You can learn it Step by step .");
-
-
-
-
+		// It is the integer related program 
+		
+	double a, b , z;
+		a = 40.90;
+		b = 20;
+		z = a / b;
+		
+		
+			System.out.println("Total=" +z);
+		
+			System.out.println("This is my first Java Progrm.");
+		
 
 
 
